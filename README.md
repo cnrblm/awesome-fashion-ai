@@ -68,7 +68,7 @@ Areas
   - [Runway to Realway: Visual Analysis of Fashion](http://www.tamaraberg.com/papers/runway_to_realway.pdf)
   - [Getting the look: clothing recognition and segmentation for automatic product suggestions in everyday photos](http://image.ntua.gr/iva/files/kalantidis_icmr13.pdf), ICMR 2013
   - [DeepStyle: Multimodal Search Engine for Fashion and Interior Design](https://arxiv.org/abs/1801.03002v2)
-  - [Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping] (https://arxiv.org/pdf/1609.02489.pdf)
+  - [Fashion DNA: Merging Content and Sales Data for Recommendation and Article Mapping](https://arxiv.org/pdf/1609.02489.pdf)
 
 
 ##### Natural Language Understanding in Fashion
